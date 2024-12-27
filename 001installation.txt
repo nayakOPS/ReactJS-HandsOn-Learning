@@ -1,0 +1,22 @@
+npm create vite@latest
+
+installing react-query
+: npm i react-query
+
+$ npm i @tanstack/react-query
+# or
+$ pnpm add @tanstack/react-query
+# or
+$ yarn add @tanstack/react-query
+
+installing react-axios
+: npm install react-axios
+
+installing prop-types
+: npm install prop-types
+
+installing redux tool kit and redux 
+: npm install @reduxjs/toolkit react-redux
+
+for installing fire base
+: npm install firebase

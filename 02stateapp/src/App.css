@@ -1,0 +1,6 @@
+.buttoncontainers > button {
+  margin-right: 10px;
+}
+.forIncrement > button {
+  margin: 0px 10px 10px 0px;
+}

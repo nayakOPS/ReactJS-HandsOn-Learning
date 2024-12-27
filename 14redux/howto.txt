@@ -1,0 +1,15 @@
+Firstly, install Redux and Redux tool-kit these are 2 different thing
+installing redux tool kit and redux 
+: npm install @reduxjs/toolkit react-redux
+
+Secondly, ConfigureStore from reduxjs/toolkit
+import {ConfigureStore} from '@reduxjs/toolkit'
+
+Thirdly, export the store through a const variable which is made by ConfigureStore fn which accepts object
+
+export const store = ConfigureStore({})\
+
+Now, Make your reducers
+-----in reduxtoolkit they are called slices, /naming convention/
+
+using methods like createSlice , nanoid
